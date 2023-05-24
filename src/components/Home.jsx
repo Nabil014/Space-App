@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom';
-import '../style/home.css'
 import NavBar from "./NavBar";
 
 export default function Home () {
