@@ -10,7 +10,7 @@ export default function NavBar () {
     <nav>
       <header className="relative md:pt-6 z-40 items-center top-0  text-white flex justify-around lg:grid lg:grid-cols-2 gap-2">
         <div className="flex ">
-          <img src="../src/assets/media/logo.svg" alt="logo" className="md:px-11 " />
+          <img src="/src/icon/logo.svg" alt="logo" className="md:px-11 " />
           <div className="h-[1px] hidden w-[70%] items-center left-32 bg-slate-500/30 self-center lg:flex  z-40"></div>
         </div>
         <nav className={`bg-gradient-to-r w-[70vw] md:visible transition-transform lg:w-full pt-6 from-slate-600/30 via-transparent to-slate-600/10 backdrop-blur-sm ${showNavbar ? "visible" : "invisible"}`}>
