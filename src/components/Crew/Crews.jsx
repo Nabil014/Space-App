@@ -16,7 +16,7 @@ export default function Crews () {
       <NavBar />
       <section>
         <div className="absolute top-0 bottom-0 left-0 right-0">
-          <img src="/src/assets/crew/background-crew-desktop.jpg" alt="bg-crew" className="object-cover  h-full w-full" />
+          <img src="https://res.cloudinary.com/demf45vva/image/upload/v1685029747/background-crew-desktop_u0jcmc.jpg" alt="bg-crew" className="object-cover  h-full w-full" />
         </div>
       </section>
       <main className="relative flex flex-col-reverse justify-around lg:h-[88vh] h-[90vh] lg:grid lg:grid-cols-2">

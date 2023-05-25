@@ -15,7 +15,7 @@ export default function Technology () {
       <NavBar />
       <section>
         <div className="absolute top-0 bottom-0 left-0 right-0">
-          <img src="/src/assets/technology/background-technology-desktop.jpg" alt="bg-space" className="object-cover  h-full w-full" />
+          <img src="https://res.cloudinary.com/demf45vva/image/upload/v1685030322/background-technology-desktop_eqwew5.jpg" alt="bg-space" className="object-cover  h-full w-full" />
         </div>
       </section>
 

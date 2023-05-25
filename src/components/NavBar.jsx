@@ -25,7 +25,7 @@ export default function NavBar () {
             <Link className={url.pathname === '/technology' ? 'pb-6  border-b-[3px] flex gap-1 md:gap-2' : 'flex gap-1 md:gap-2 hover:pb-6 hover:border-slate-500 hover:border-b-[2px]'} to={'/technology'} ><span className="font-bold hidden md:block font-Roboto gap-4">03</span> TECHNOLOGY</Link>
           </ul>
         </nav>
-        <img src='/src/assets/media/icon-hamburger.svg' className="md:hidden z-40" onClick={() => setShowNavbar(!showNavbar)} alt="icon-hamburger" />
+        <img src='/src/icon/icon-hamburger.svg' className="md:hidden z-40 cursor-pointer" onClick={() => setShowNavbar(!showNavbar)} alt="icon-hamburger" />
       </header>
     </nav>
   )

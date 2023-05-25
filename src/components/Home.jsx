@@ -7,7 +7,7 @@ export default function Home () {
       <NavBar />
       <section>
         <div className="absolute top-0 bottom-0 left-0 right-0">
-          <img src="../src/assets/media/globe-1849404.webp" alt="bg-space" className="object-cover  h-full w-full" />
+          <img src="https://res.cloudinary.com/demf45vva/image/upload/v1684962109/globe-1849404_wiqeza.webp" alt="bg-space" className="object-cover  h-full w-full" />
         </div>
       </section>
       <section className="grid lg:grid-cols-2 gap-4 relative w-screen h-[80vh] lg:justify-center justify-around ">

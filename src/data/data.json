@@ -3,7 +3,7 @@
     {
       "name": "Moon",
       "images": {
-        "png": "/src/assets/destination/image-moon.webp",
+        "png": "https://res.cloudinary.com/demf45vva/image/upload/v1684961967/image-moon_otxzuo.webp",
         "webp": "./assets/destination/image-moon.webp"
       },
       "description": "See our planet as you’ve never seen it before. A perfect relaxing trip away to help regain perspective and come back refreshed. While you’re there, take in some history by visiting the Luna 2 and Apollo 11 landing sites.",
@@ -13,7 +13,7 @@
     {
       "name": "Mars",
       "images": {
-        "png": "/src/assets/destination/image-mars.webp",
+        "png": "https://res.cloudinary.com/demf45vva/image/upload/v1684961968/image-mars_q0xpnj.webp",
         "webp": "./assets/destination/image-mars.webp"
       },
       "description": "Don’t forget to pack your hiking boots. You’ll need them to tackle Olympus Mons, the tallest planetary mountain in our solar system. It’s two and a half times the size of Everest!",
@@ -23,7 +23,7 @@
     {
       "name": "Europa",
       "images": {
-        "png": "/src/assets/destination/image-europa.webp",
+        "png": "https://res.cloudinary.com/demf45vva/image/upload/v1684961968/image-europa_oadewa.webp",
         "webp": "./assets/destination/image-europa.webp"
       },
       "description": "The smallest of the four Galilean moons orbiting Jupiter, Europa is a winter lover’s dream. With an icy surface, it’s perfect for a bit of ice skating, curling, hockey, or simple relaxation in your snug wintery cabin.",
@@ -33,7 +33,7 @@
     {
       "name": "Titan",
       "images": {
-        "png": "/src/assets/destination/image-titan.webp",
+        "png": "https://res.cloudinary.com/demf45vva/image/upload/v1684961967/image-titan_yat09l.webp",
         "webp": "./assets/destination/image-titan.webp"
       },
       "description": "The only moon known to have a dense atmosphere other than Earth, Titan is a home away from home (just a few hundred degrees colder!). As a bonus, you get striking views of the Rings of Saturn.",
@@ -45,7 +45,7 @@
     {
       "name": "Douglas Hurley",
       "images": {
-        "png": "/src/assets/crew/image-douglas-hurley.webp",
+        "png": "https://res.cloudinary.com/demf45vva/image/upload/v1685029747/image-douglas-hurley_tkjzhv.webp",
         "webp": "./assets/crew/image-douglas-hurley.webp"
       },
       "role": "Commander",
@@ -54,7 +54,7 @@
     {
       "name": "Mark Shuttleworth",
       "images": {
-        "png": "/src/assets/crew/image-mark-shuttleworth.webp",
+        "png": "https://res.cloudinary.com/demf45vva/image/upload/v1685029747/image-mark-shuttleworth_qcfwqo.webp",
         "webp": "./assets/crew/image-mark-shuttleworth.webp"
       },
       "role": "Mission Specialist",
@@ -63,7 +63,7 @@
     {
       "name": "Victor Glover",
       "images": {
-        "png": "/src/assets/crew/image-victor-glover.webp",
+        "png": "https://res.cloudinary.com/demf45vva/image/upload/v1685029747/image-victor-glover_nxglg0.webp",
         "webp": "./assets/crew/image-victor-glover.webp"
       },
       "role": "Pilot",
@@ -72,7 +72,7 @@
     {
       "name": "Anousheh Ansari",
       "images": {
-        "png": "/src/assets/crew/image-anousheh-ansari.webp",
+        "png": "https://res.cloudinary.com/demf45vva/image/upload/v1685029747/image-anousheh-ansari_zcas3z.webp",
         "webp": "./assets/crew/image-anousheh-ansari.webp"
       },
       "role": "Flight Engineer",
@@ -83,7 +83,7 @@
     {
       "name": "Launch vehicle",
       "images": {
-        "portrait": "/src/assets/technology/image-launch-vehicle-portrait.jpg",
+        "portrait": "https://res.cloudinary.com/demf45vva/image/upload/v1685030322/image-launch-vehicle-portrait_hasocb.jpg",
         "landscape": "./assets/technology/image-launch-vehicle-landscape.jpg"
       },
       "description": "A launch vehicle or carrier rocket is a rocket-propelled vehicle used to carry a payload from Earth's surface to space, usually to Earth orbit or beyond. Our WEB-X carrier rocket is the most powerful in operation. Standing 150 metres tall, it's quite an awe-inspiring sight on the launch pad!"
@@ -91,7 +91,7 @@
     {
       "name": "Spaceport",
       "images": {
-        "portrait": "/src/assets/technology/image-spaceport-portrait.jpg",
+        "portrait": "https://res.cloudinary.com/demf45vva/image/upload/v1685030323/image-spaceport-portrait_qia6ra.jpg",
         "landscape": "./assets/technology/image-spaceport-landscape.jpg"
       },
       "description": "A spaceport or cosmodrome is a site for launching (or receiving) spacecraft, by analogy to the seaport for ships or airport for aircraft. Based in the famous Cape Canaveral, our spaceport is ideally situated to take advantage of the Earth’s rotation for launch."
@@ -99,7 +99,7 @@
     {
       "name": "Space capsule",
       "images": {
-        "portrait": "/src/assets/technology/image-space-capsule-portrait.jpg",
+        "portrait": "https://res.cloudinary.com/demf45vva/image/upload/v1685030322/image-space-capsule-landscape_ps5vgv.jpg",
         "landscape": "./assets/technology/image-space-capsule-landscape.jpg"
       },
       "description": "A space capsule is an often-crewed spacecraft that uses a blunt-body reentry capsule to reenter the Earth's atmosphere without wings. Our capsule is where you'll spend your time during the flight. It includes a space gym, cinema, and plenty of other activities to keep you entertained."

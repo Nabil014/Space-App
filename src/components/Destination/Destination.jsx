@@ -16,7 +16,7 @@ export default function Destination () {
       <NavBar />
       <section>
         <div className="absolute top-0 bottom-0 left-0 right-0">
-          <img src="/src/assets/media/bg-destination.webp" alt="bg-space" className="object-cover  h-full w-full" />
+          <img src="https://res.cloudinary.com/demf45vva/image/upload/v1684962108/bg-destination_imxsjj.webp" alt="bg-space" className="object-cover  h-full w-full" />
         </div>
       </section>
 
