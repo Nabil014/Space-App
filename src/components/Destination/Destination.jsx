@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unknown-property */
 import { useState } from 'react';
 import NavBar from "../NavBar";
 import Planets from "./Planets";
