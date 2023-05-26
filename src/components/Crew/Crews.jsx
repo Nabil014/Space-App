@@ -22,7 +22,7 @@ export default function Crews () {
       <main className="relative flex flex-col-reverse justify-around lg:h-[88vh] h-[90vh] lg:grid lg:grid-cols-2">
         <div className='flex justify-around lg:justify-end'>
 
-          <div className="flex flex-col lg:items-center lg:justify-center sm:gap-6 lg:gap-28 lg:w-[70%]">
+          <div className="flex flex-col lg:items-center lg:justify-center lg:gap-28 lg:w-[70%]">
             <div className="flex gap-2 pl-2 md:gap-4 w-full">
               <span className="text-[#616670] font-bold text-xl">02</span>
               <h2 className="text-[#cfd3d8] text-xl font-semibold font-Roboto ">MEET YOUR CREW</h2>
