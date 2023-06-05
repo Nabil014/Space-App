@@ -1,7 +1,8 @@
-## Space App
+# Space App
 
-# ✓ Vite
-# ✓ React
-# ✓ Tailwind
+##
+ ✓ Vite
+ ✓ React
+ ✓ Tailwind
 
 https://space-app-coral.vercel.app/
