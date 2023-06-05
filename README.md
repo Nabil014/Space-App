@@ -1,6 +1,4 @@
 # Space App
-
-##
  ✓ Vite
  ✓ React
  ✓ Tailwind
